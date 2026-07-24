@@ -3,10 +3,15 @@
 Full Stack Developer in progress.
 Building real-world projects and improving every day.
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -15,7 +20,6 @@ Building real-world projects and improving every day.
 - 📚 Improving my English every day
 - 🚀 Building real-world projects to grow as a developer
 - 🎯 Focused on continuous learning and writing clean, maintainable code
-
 
 ## 🛠️ Tech Stack
 
@@ -29,12 +33,33 @@ Building real-world projects and improving every day.
 - GitHub
 - Visual Studio Code
 
-### Currently Learning
+## 📚 Currently Learning
+
 - Full Stack Development
 - English
 
+## 🗺️ Learning Roadmap
 
-## 🎯 Current Goals
+| Technology | Status |
+|------------|--------|
+| HTML5 | ✅ Learning |
+| CSS3 | ✅ Learning |
+| JavaScript | ✅ Learning |
+| Git & GitHub | ✅ Learning |
+| React | 🔜 Next |
+| Node.js | 🔜 Next |
+
+<details>
+<summary>📊 My Learning Stats</summary>
+
+- 💻 Coding every day
+- 📚 Studying Full Stack Development
+- 🇬🇧 Practicing English daily
+- 🚀 Building projects to improve my skills
+
+</details>
+
+## 🎯 Current Goals 🚀
 
 - Build real-world Full Stack projects
 - Improve my English to a professional level
@@ -42,15 +67,13 @@ Building real-world projects and improving every day.
 - Learn modern web technologies
 - Keep a consistent daily coding habit
 
-
-## ⭐ Featured Projects
+## ⭐ Featured Projects ✨
 
 Coming soon...
 
 I'm currently building projects that will be featured here as I progress through my Full Stack Development journey.
 
-
-## 📫 Let's Connect
+## 📫 Let's Connect 🤝
 
 - GitHub: https://github.com/codebysobral
 - Email: codebysobral@gmail.com
