@@ -1,73 +1,74 @@
 # Hi, I'm Sérgio Sobral 👋
 
-Full Stack Developer in progress.
-Building real-world projects and improving every day.
+**Software Engineering Student | Python → Backend → Cloud → Data Engineering & AI**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+Building a strong foundation in software development through hands-on practice, continuous learning, and real-world projects.
+
+🇧🇷 Based in Brazil.
 
 ## 👨‍💻 About Me
 
-- 🇧🇷 Based in Brazil
-- 💻 Studying Full Stack Development
-- 📚 Improving my English every day
-- 🚀 Building real-world projects to grow as a developer
-- 🎯 Focused on continuous learning and writing clean, maintainable code
+- 🎓 Studying Software Engineering with a technical background in IT.
+- 🐍 Building my programming foundations with Python.
+- 🧭 Following a structured path toward Backend Development, Cloud, Data Engineering, and Applied AI.
+- 🛠️ Practicing through coding exercises and projects.
+- 📚 Improving my English and technical communication.
+- 📈 Documenting my learning journey and progress on GitHub.
 
-## 🛠️ Tech Stack
+## 🛠️ Current Focus
 
-### Languages
-- HTML5
-- CSS3
-- JavaScript
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Development_Environment-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-### Tools
-- Git
-- GitHub
-- Visual Studio Code
-
-## 📚 Currently Learning
-
-- Full Stack Development
-- English
+Currently focused on programming fundamentals, problem-solving, Python, and maintaining a consistent development workflow.
 
 ## 🗺️ Learning Roadmap
 
-| Technology | Status |
-|------------|--------|
-| HTML5 | ✅ Learning |
-| CSS3 | ✅ Learning |
-| JavaScript | ✅ Learning |
-| Git & GitHub | ✅ Learning |
-| React | 🔜 Next |
-| Node.js | 🔜 Next |
+My learning path follows a progressive sequence, building each stage on the knowledge acquired before it.
 
-<details>
-<summary>📊 My Learning Stats</summary>
+| Stage | Focus |
+|---|---|
+| 1 | Programming Fundamentals and Python |
+| 2 | Git, GitHub, Linux and Terminal |
+| 3 | Data Structures and Algorithms |
+| 4 | SQL, PostgreSQL and Data Modeling |
+| 5 | HTTP, REST APIs and Backend with FastAPI |
+| 6 | Testing, Security and Software Architecture |
+| 7 | Docker, CI/CD and AWS Cloud |
+| 8 | Deployment and Observability |
+| 9 | Python for Data, ETL/ELT and Data Pipelines |
+| 10 | Data Engineering and Data Warehousing |
+| 11 | Distributed Data Systems |
+| 12 | Machine Learning and AI Fundamentals |
+| 13 | Applied AI, LLMs, RAG and MLOps |
 
-- 💻 Coding every day
-- 📚 Studying Full Stack Development
-- 🇬🇧 Practicing English daily
-- 🚀 Building projects to improve my skills
+This roadmap represents my intended learning progression, not a claim of proficiency in every listed technology.
 
-</details>
+## 📂 Learning and Projects
 
-## 🎯 Current Goals 🚀
+### 📚 [Learning Log](https://github.com/codebysobral/learning-log)
 
-- Build real-world Full Stack projects
-- Improve my English to a professional level
-- Write clean and maintainable code
-- Learn modern web technologies
-- Keep a consistent daily coding habit
+A chronological record of my learning journey, including topics studied, exercises completed, challenges, and lessons learned.
 
-## ⭐ Featured Projects ✨
+### 🚀 [Projects](https://github.com/codebysobral/projects)
 
-Coming soon...
+A collection of coding exercises, practical implementations, experiments, and projects developed throughout my technical growth.
 
-I'm currently building projects that will be featured here as I progress through my Full Stack Development journey.
+## 🎯 Goals
 
-## 📫 Let's Connect 🤝
+- Build strong programming and problem-solving fundamentals.
+- Develop practical skills with Python, SQL, and backend systems.
+- Learn to design, test, deploy, and maintain software.
+- Build a solid foundation in Cloud and Data Engineering.
+- Progress toward developing reliable, data-driven and AI-powered applications.
+- Create a portfolio that demonstrates practical skills and continuous improvement.
+- Become an independent learner capable of solving real technical problems.
 
-- GitHub: https://github.com/codebysobral
-- Email: codebysobral@gmail.com
+## 📫 Let's Connect
 
-> I'm always learning, building and improving.
+- **GitHub:** [codebysobral](https://github.com/codebysobral)
+- **Email:** codebysobral@gmail.com
+
+> Learning with purpose. Building through practice. Improving one step at a time.
